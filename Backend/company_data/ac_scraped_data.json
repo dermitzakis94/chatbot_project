@@ -1,0 +1,15 @@
+{
+  "main_page": {
+    "url": "https://sx/",
+    "title": "",
+    "clean_content": "",
+    "status": "failed",
+    "error": "Failed to fetch HTML"
+  },
+  "discovered_links": [],
+  "summary": {
+    "total_links_found": 0,
+    "successfully_scraped": 0,
+    "failed": 0
+  }
+}
